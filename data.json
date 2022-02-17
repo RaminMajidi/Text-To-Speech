@@ -1,0 +1,103 @@
+[{
+        "id": 1,
+        "title": "bite",
+        "trans": "گاز گرفتن",
+        "imageName": "1(bite).jpg"
+    },
+    {
+        "id": 2,
+        "title": "bounce",
+        "trans": "جهش",
+        "imageName": "2(bounce).jpg"
+    },
+    {
+        "id": 3,
+        "title": "build",
+        "trans": "ساختن",
+        "imageName": "3(build).jpg"
+
+    },
+    {
+        "id": 4,
+        "title": "buy",
+        "trans": "خرید",
+        "imageName": "4(buy).jpg"
+    },
+    {
+        "id": 5,
+        "title": "crash",
+        "trans": "سقوط",
+        "imageName": "5(crash).jpg"
+    },
+    {
+        "id": 6,
+        "title": "dig",
+        "trans": "حفر کردن",
+        "imageName": "6(dig).jpg"
+    },
+    {
+        "id": 7,
+        "title": "drive",
+        "trans": "راندن",
+        "imageName": "7(drive).jpg"
+    },
+    {
+        "id": 8,
+        "title": "hide",
+        "trans": "پنهان شدن",
+        "imageName": "8(hide).jpg"
+    },
+    {
+        "id": 9,
+        "title": "lift",
+        "trans": "بلند کردن",
+        "imageName": "9(lift).jpg"
+    },
+    {
+        "id": 10,
+        "title": "measure",
+        "trans": "اندازه گیری",
+        "imageName": "10(measure).jpg"
+    },
+    {
+        "id": 11,
+        "title": "pick up",
+        "trans": "برداشتن",
+        "imageName": "11(pick up).jpg"
+    },
+    {
+        "id": 12,
+        "title": "ride",
+        "trans": "سوار شدن",
+        "imageName": "12(ride).jpg"
+    },
+    {
+        "id": 13,
+        "title": "shake",
+        "trans": "تکان دادن",
+        "imageName": "13(shake).jpg"
+    },
+    {
+        "id": 14,
+        "title": "steal",
+        "trans": "سرقت",
+        "imageName": "14(steal).jpg"
+    },
+    {
+        "id": 15,
+        "title": "tear",
+        "trans": "پاره کردن",
+        "imageName": "15(tear).jpg"
+    },
+    {
+        "id": 16,
+        "title": "write",
+        "trans": "نوشتن",
+        "imageName": "16(write).jpg"
+    }
+
+
+
+
+
+]
